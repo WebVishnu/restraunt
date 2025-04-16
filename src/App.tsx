@@ -88,7 +88,7 @@ const menuItems = [
     items: [
       { 
         name: "Chilli Potato", 
-        price: 80, 
+        price: 80 - 50, 
         description: "Crispy potato strips in spicy sauce", 
         variants: ["Regular: ₹80", "Half: ₹50"], 
         image: "https://img-global.cpcdn.com/recipes/447b31c5dba6b27e/1200x630cq70/photo.jpg", // Added image
@@ -96,7 +96,7 @@ const menuItems = [
       },
       { 
         name: "Honey Chilli Potato", 
-        price: 100, 
+        price: 100 - 60, 
         description: "Crispy potatoes in sweet and spicy sauce", 
         variants: ["Regular: ₹100", "Half: ₹60"], 
         image: "https://static.toiimg.com/thumb/52532656.cms?width=1200&height=900", 
@@ -104,7 +104,7 @@ const menuItems = [
       },
       { 
         name: "Chowmein", 
-        price: 60, 
+        price: 60 - 40, 
         description: "Stir-fried noodles with vegetables", 
         variants: ["Regular: ₹60", "Half: ₹40"], 
         image: "https://images.getrecipekit.com/20221130023757-untitled-design-12-3.png?aspect_ratio=16:9&quality=90&", // Added image
@@ -112,7 +112,7 @@ const menuItems = [
       },
       { 
         name: "Paneer Chowmein", 
-        price: 90, 
+        price: 90 - 50, 
         description: "Noodles with cottage cheese", 
         variants: ["Regular: ₹90", "Half: ₹50"], 
         image: "https://i.ytimg.com/vi/rcR1owkn9s8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAh_o6hARjTNSC26V6L6DRM_8zZQ", // Added image
@@ -153,70 +153,70 @@ const menuItems = [
       },
       { 
         name: "Chole Bhature", 
-        price: 70, 
+        price: 60, 
         description: "Cottage cheese burger", 
         image: "https://i.ytimg.com/vi/wAv-mFU7eus/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4QzhyIzsn3bEMvu2NXaXRKS7qgg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Chole Chawal", 
-        price: 70, 
+        price: 50, 
         description: "Cottage cheese burger", 
         image: "https://भारतीयउत्पादन.com/wp-content/uploads/2020/11/chole-chawal.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Plane Maggie", 
-        price: 70, 
+        price: 60, 
         description: "Cottage cheese burger", 
         image: "https://thumbs.dreamstime.com/b/maggie-noodles-instant-served-bowl-over-rustic-wooden-background-selective-focus-224001458.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Veg Maggie", 
-        price: 70, 
+        price: 80, 
         description: "Cottage cheese burger", 
         image: "https://images.raasakarts.com/insecure/fit/1000/1000/ce/0/plain/https://rasakart-assets.s3.ap-south-1.amazonaws.com/3fa229/prods/DhrV9EcjXVmTTlwDsoHKFIRR7KzWKPhG40s1SS7B.png@webp", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "French Fries", 
-        price: 70, 
+        price: 80, 
         description: "Cottage cheese burger", 
         image: "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Peri Peri French Fries", 
-        price: 70, 
+        price: 100, 
         description: "Cottage cheese burger", 
         image: "https://cookingwithparita.com/wp-content/uploads/2022/10/image-of-baked-crispy-peri-peri-fries-recipe-2.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Steam Momos", 
-        price: 70, 
+        price: 70 - 40, 
         description: "Cottage cheese burger", 
         image: "https://www.thespruceeats.com/thmb/UnVh_-znw7ikMUciZIx5sNqBtTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-momos-wontons-1957616-hero-01-1c59e22bad0347daa8f0dfe12894bc3c.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Fried Momos", 
-        price: 70, 
+        price: 90 - 50, 
         description: "Cottage cheese burger", 
         image: "https://salasdaily.com/cdn/shop/products/chicken_fried_momos.webp?v=1667534046", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Chilli Momos", 
-        price: 70, 
+        price: 120 - 70, 
         description: "Cottage cheese burger", 
         image: "https://i.ytimg.com/vi/tpsQksHbtAI/maxresdefault.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Chilli Paneer", 
-        price: 70, 
+        price: 120, 
         description: "Cottage cheese burger", 
         image: "https://www.cookwithmanali.com/wp-content/uploads/2016/01/Chilli-Paneer-Restaurant-Style-500x500.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
