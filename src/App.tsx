@@ -202,7 +202,7 @@ const menuItems = [
       },
       { 
         name: "Fried Momos", 
-        price: 90 - 50, 
+        price: 90 '-' 50, 
         description: "Cottage cheese burger", 
         image: "https://salasdaily.com/cdn/shop/products/chicken_fried_momos.webp?v=1667534046", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
