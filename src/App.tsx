@@ -195,7 +195,7 @@ const menuItems = [
       },
       { 
         name: "Steam Momos", 
-        price: 70  40, 
+        price: 70, 
         description: "Cottage cheese burger", 
         image: "https://www.thespruceeats.com/thmb/UnVh_-znw7ikMUciZIx5sNqBtTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-momos-wontons-1957616-hero-01-1c59e22bad0347daa8f0dfe12894bc3c.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
