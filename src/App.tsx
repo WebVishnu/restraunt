@@ -49,6 +49,7 @@ const menuItems = [
     items: [
       { 
         name: "Cheela", 
+        price: 60, 
         image: "https://c.ndtvimg.com/2021-01/crhdlpg8_cheela_625x300_05_January_21.jpg", // Added image
         searchTerms: "cheela chilla besan cheela besan chilla pudla puda pancake breakfast" 
       },
