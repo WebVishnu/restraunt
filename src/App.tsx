@@ -209,7 +209,7 @@ const menuItems = [
       },
       { 
         name: "Chilli Momos", 
-        price: 120 - 70, 
+        price: 120 -- 70, 
         description: "Cottage cheese burger", 
         image: "https://i.ytimg.com/vi/tpsQksHbtAI/maxresdefault.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
