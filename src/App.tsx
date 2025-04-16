@@ -88,7 +88,7 @@ const menuItems = [
     items: [
       { 
         name: "Chilli Potato", 
-        price: 80  50, 
+        price: 80, 
         description: "Crispy potato strips in spicy sauce", 
         variants: ["Regular: ₹80", "Half: ₹50"], 
         image: "https://img-global.cpcdn.com/recipes/447b31c5dba6b27e/1200x630cq70/photo.jpg", // Added image
@@ -96,7 +96,7 @@ const menuItems = [
       },
       { 
         name: "Honey Chilli Potato", 
-        price: 100  60, 
+        price: 100, 
         description: "Crispy potatoes in sweet and spicy sauce", 
         variants: ["Regular: ₹100", "Half: ₹60"], 
         image: "https://static.toiimg.com/thumb/52532656.cms?width=1200&height=900", 
@@ -104,7 +104,7 @@ const menuItems = [
       },
       { 
         name: "Chowmein", 
-        price: 60  40, 
+        price: 60, 
         description: "Stir-fried noodles with vegetables", 
         variants: ["Regular: ₹60", "Half: ₹40"], 
         image: "https://images.getrecipekit.com/20221130023757-untitled-design-12-3.png?aspect_ratio=16:9&quality=90&", // Added image
@@ -112,7 +112,7 @@ const menuItems = [
       },
       { 
         name: "Paneer Chowmein", 
-        price: 90  50, 
+        price: 90, 
         description: "Noodles with cottage cheese", 
         variants: ["Regular: ₹90", "Half: ₹50"], 
         image: "https://i.ytimg.com/vi/rcR1owkn9s8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAh_o6hARjTNSC26V6L6DRM_8zZQ", // Added image
@@ -202,14 +202,14 @@ const menuItems = [
       },
       { 
         name: "Fried Momos", 
-        price: 90  50, 
+        price: 90, 
         description: "Cottage cheese burger", 
         image: "https://salasdaily.com/cdn/shop/products/chicken_fried_momos.webp?v=1667534046", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
         name: "Chilli Momos", 
-        price: 120  70, 
+        price: 120, 
         description: "Cottage cheese burger", 
         image: "https://i.ytimg.com/vi/tpsQksHbtAI/maxresdefault.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
