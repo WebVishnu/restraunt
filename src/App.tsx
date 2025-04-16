@@ -77,9 +77,7 @@ const menuItems = [
     items: [
       { 
         name: "Chilli Potato-Full", 
-        price: 80, 
-        name: "Chilli Potato-Half", 
-        price: 50, 
+        price: 80,
         variants: ["Regular: ₹80", "Half: ₹50"], 
         image: "https://img-global.cpcdn.com/recipes/447b31c5dba6b27e/1200x630cq70/photo.jpg", // Added image
         searchTerms: "chilli potato chili potato spicy potato honey chilli potato starter" 
