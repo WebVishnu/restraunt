@@ -38,7 +38,7 @@ const menuItems = [
         name: "Masala Dosa", 
         price: 70, 
         description: "Crispy rice crepe filled with spiced potato mixture", 
-        image: "https://www.yummyfoodrecipes.com/resources/picture/org/Crispy-Paper-Dosa.jpg", // Added image
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe.jpg", // Added image
         searchTerms: "masala dosa masala dose potato dosa aloo dosa mysore masala dosa stuffed" 
       },
       { 
@@ -91,7 +91,7 @@ const menuItems = [
         price: 80, 
         description: "Crispy potato strips in spicy sauce", 
         variants: ["Regular: ₹80", "Half: ₹50"], 
-        image: "https://static.toiimg.com/photo/52532656.cms", // Added image
+        image: "https://img-global.cpcdn.com/recipes/447b31c5dba6b27e/1200x630cq70/photo.jpg", // Added image
         searchTerms: "chilli potato chili potato spicy potato honey chilli potato starter" 
       },
       { 
@@ -141,7 +141,7 @@ const menuItems = [
         name: "Paneer Burger", 
         price: 70, 
         description: "Cottage cheese burger", 
-        image: "https://news.cgtn.com/news/77496a4d33597a6333566d54/img/5ebf85b9-9e5f-4121-a02a-d3cf5699960b.jpg", // Added image
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmQyGzYxppJuITXLPqPgwqGkx_jmnYghJtYA&s", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
@@ -197,7 +197,7 @@ const menuItems = [
         name: "Steam Momos", 
         price: 70, 
         description: "Cottage cheese burger", 
-        image: "https://cookingwithparita.com/wp-content/uploads/2022/10/image-of-baked-crispy-peri-peri-fries-recipe-2.jpg", // Added image
+        image: "https://www.thespruceeats.com/thmb/UnVh_-znw7ikMUciZIx5sNqBtTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-momos-wontons-1957616-hero-01-1c59e22bad0347daa8f0dfe12894bc3c.jpg", // Added image
         searchTerms: "paneer burger cottage cheese burger veg paneer burger grilled" 
       },
       { 
@@ -238,7 +238,7 @@ const menuItems = [
         name: "Blue Lagoon Mojito", 
         price: 100, 
         description: "Blue curacao flavored mojito", 
-        image: "https://images.unsplash.com/photo-1551533717-859dbc2f1f78?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2400&q=80", // Added image
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0QAT645fifw_1o45H2zBa980BWIRNk3ydQ&s", // Added image
         searchTerms: "blue lagoon mojito blue mojito special mojito cocktail mocktail tropical" 
       }
     ]
